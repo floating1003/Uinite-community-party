@@ -1,5 +1,5 @@
-    $ dig www.unitecommunity.COM +nostats +nocomments +nocmd
-    > ;www.unitecommunity.com.                    IN      A
-    > www.unitecommunity.com.       3592    IN      CNAME  floating1003.github.io/Uinite-community-party/.
-    > floating1003.github.io/Uinite-community-party/      43192   IN      CNAME     > floating1003.github.io/Uinite-community-party.
-    > https://floating1003.github.io/Uinite-community-party        22      IN      A       192.0.2.1
+    $ dig www.unitecommunityparty.en.org +nostats +nocomments +nocmd
+    > ;www.unitecommunityparty.en.org.                    IN      A
+    > www.unitecommunityparty.en.org.       3592    IN      CNAME  floating1003.github.io/Uinite-community-party/.
+    > floating1003.github.io/Uinite-community-party/      43192   IN      CNAME     > floating1003.github.io/Unite-community-party/.
+    > https://floating1003.github.io/Unite-community-party/        22      IN      A       192.0.2.1
