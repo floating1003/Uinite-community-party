@@ -1,2 +1,6 @@
-UNITECOMMUNITY.COM
-WWW.EXAMPLE.COM.             3592    IN      CNAME   floating1003.github.io.
+WWW.UNITECOMMUNITY.COM
+    $ dig WWW.UNITECOMMUNITY.COM +nostats +nocomments +nocmd
+    > ;WWW.UNITECOMMUNITY.COM                  IN      A
+    > WWW.UNITECOMMUNITY.COM           3592    IN      CNAME   FLOATING1003.github.io.
+    > FLOATING1003.github.io.      43192   IN      CNAME   UINITE-COMMUNITY-PARTY
+    > UINITE-COMMUNITY-PARTY.         22      IN      A       192.0.2.1
