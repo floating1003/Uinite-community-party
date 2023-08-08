@@ -1,6 +1,0 @@
-unitecommunityp.top
-    $ dig unitecommunityp.top +nostats +nocomments +nocmd
-    > ;unitecommunityp.top                 IN      A
-    > unitecommunityp.top           3592    IN      CNAME   FLOATING1003.github.io.
-    > unitecommunityp.top      43192   IN      CNAME   UNITE-COMMUNITY-PARTY
-    > UNITE-COMMUNITY-PARTY.         22      IN      A       192.0.2.1
