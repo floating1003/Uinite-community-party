@@ -1,5 +1,0 @@
-    $ dig unitecommunityp.top +nostats +nocomments +nocmd
-    > ;unitecommunityp.top                   IN      A
-    > unitecommunityp.top       3592    IN      CNAME  floating1003.github.io/Uinite-community-party/.
-    > floating1003.github.io/Unite-community-party/      43192   IN      CNAME     > floating1003.github.io/Unite-community-party/.
-    > https://floating1003.github.io/Unite-community-party/        22      IN      A       192.0.2.1
